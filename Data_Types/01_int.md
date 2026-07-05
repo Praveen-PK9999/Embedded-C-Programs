@@ -220,4 +220,4 @@ printf("%d", age);
 
 ## Next Lesson
 
- **02_char.c** – Character Data Type
+ --> **02_char.c** – Character Data Type
